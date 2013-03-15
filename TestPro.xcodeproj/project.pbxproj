@@ -83,8 +83,6 @@
 		E3B9D21316F2B95600752344 /* TestPro */ = {
 			isa = PBXGroup;
 			children = (
-				E3B9D21C16F2B95600752344 /* TestProAppDelegate.h */,
-				E3B9D21D16F2B95600752344 /* TestProAppDelegate.m */,
 				E3B9D22516F2B95700752344 /* MainStoryboard.storyboard */,
 				E3B9D22816F2B95700752344 /* TestProViewController.h */,
 				E3B9D22916F2B95700752344 /* TestProViewController.m */,
@@ -96,6 +94,8 @@
 		E3B9D21416F2B95600752344 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E3B9D21C16F2B95600752344 /* TestProAppDelegate.h */,
+				E3B9D21D16F2B95600752344 /* TestProAppDelegate.m */,
 				E3B9D21516F2B95600752344 /* TestPro-Info.plist */,
 				E3B9D21616F2B95600752344 /* InfoPlist.strings */,
 				E3B9D21916F2B95600752344 /* main.m */,
